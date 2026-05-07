@@ -1,0 +1,11 @@
+name: stable_gnn_policy
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.8
+  - pip
+  - pytorch
+  - torchvision
+  - pip:
+      - -r requirements.txt
