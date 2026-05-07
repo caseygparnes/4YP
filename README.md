@@ -65,7 +65,7 @@ pip install -r requirements.txt
 A pretrained model is included at:
 
 ```text
-pretrained/orbit_mad_final/
+pretrained_policy/orbit_mad_final/
 ```
 
 This folder should contain the saved model files and the configuration needed to run evaluation scripts without retraining.
